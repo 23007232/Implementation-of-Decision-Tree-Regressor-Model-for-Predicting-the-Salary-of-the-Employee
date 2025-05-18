@@ -24,8 +24,8 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 ```
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: SHAIK SAMREEN 
-RegisterNumber:  212223110047
+Developed by: PAVITHRA P
+RegisterNumber:  212223110035
 */
 ```
 
